@@ -1,0 +1,17 @@
+---------------------------------------------------- EVERBLUE STUDIOS ----------------------------------------------------
+
+------------------------------------------------------------ ABRIR -------------------------------------------------------
+
+1 - Darle click derecho al archivo descargado "index.html" dento de la carpeta "PROYECT-ZERO"
+
+2 - Seleccionar "Abrir con" y seleccionar tu navegador predeterminado (recomendamos Google Chrome)
+
+3 - ¡Disfrutar!
+
+------------------------------------------------------------ EDITAR ------------------------------------------------------
+
+1 - Tener instalado algún editor de código o texto (recomendamos VS Code)
+
+2 - ¡Editar a tu gusto!
+
+---------------------------------------------------- EVERBLUE STUDIOS ----------------------------------------------------
